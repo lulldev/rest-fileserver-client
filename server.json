@@ -1,0 +1,6 @@
+{
+  "serverConfig": {
+    "server_host": "localhost",
+    "server_port": 4441
+  }
+}
