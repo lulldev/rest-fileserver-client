@@ -1,6 +1,6 @@
 {
   "serverConfig": {
     "server_host": "localhost",
-    "server_port": 4441
+    "server_port": 8002
   }
 }
